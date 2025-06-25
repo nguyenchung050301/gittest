@@ -32,5 +32,6 @@ git push -u origin main
 - Git fetch: cập nhật các thay đổi.
 - Git pull: lấy file về local.
 - Xử lý conflict: nếu dùng vim ***-!wq***: ; hoặc sử dụng ***VS code***.
+- Git add: thêm file đã chỉnh sửa vào stage.
 - Git commit -m "[**message**]": thực hiện lệnh commit kèm message.
 - Git push: push các thay đổi lên repository. 
