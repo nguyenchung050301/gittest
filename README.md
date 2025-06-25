@@ -35,3 +35,10 @@ git push -u origin main
 - Git add: thêm file đã chỉnh sửa vào stage.
 - Git commit -m "[**message**]": thực hiện lệnh commit kèm message.
 - Git push: push các thay đổi lên repository. 
+
+
+# Cách tạo nhánh / checkout nhánh
+- Git branch [**ten nhanh**]: tạo nhánh có tên **ten nhanh**.
+- *Git branch -a để xem tất cả nhánh đang có ở local*.
+- Git checkout [**ten nhanh**]: để chuyển sang nhánh **ten nhanh**.
+- Git checkout -B [**ten nhanh**] *git branch **ten nhanh** + git checkout **ten nhanh***: tạo nhánh và chuyển sang nhánh.     
