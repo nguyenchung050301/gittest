@@ -1,0 +1,55 @@
+
+# Please enter the commit message for your changes. Lines starting
+#
+with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   .vs/ProjectEvaluation/webapidemo.metadata.v9.bin
+#	modified:   .vs/ProjectEvaluation/webapidemo.projects.v9.bin
+#	modified:   .vs/ProjectEvaluation/webapidemo.strings.v9.bin
+#	deleted:    .vs/WebAPIDemo/CopilotIndices/17.14.794.21998/CodeChunks.db
+#	deleted:    .vs/WebAPIDemo/CopilotIndices/17.14.794.21998/CodeChunks.db-shm
+#	deleted:    .vs/WebAPIDemo/CopilotIndices/17.14.794.21998/CodeChunks.db-wal
+#	deleted:    .vs/WebAPIDemo/CopilotIndices/17.14.794.21998/SemanticSymbols.db
+#	deleted:    .vs/WebAPIDemo/CopilotIndices/17.14.794.21998/SemanticSymbols.db-shm
+#	deleted:    .vs/WebAPIDemo/CopilotIndices/17.14.794.21998/SemanticSymbols.db-wal
+#	modified:   .vs/WebAPIDemo/DesignTimeBuild/.dtbcache.v2
+#	deleted:    .vs/WebAPIDemo/FileContentIndex/6fa3881e-70a3-4d87-b672-ee301dcb2010.vsidx
+#	deleted:    .vs/WebAPIDemo/FileContentIndex/97499d03-e6f7-4298-85ad-83be0f435f03.vsidx
+#	deleted:    .vs/WebAPIDemo/FileContentIndex/c5604e18-2d8b-457f-bb37-cc7249711156.vsidx
+#	deleted:    .vs/WebAPIDemo/FileContentIndex/e95e6079-bc57-462e-a7e4-3e9dbd83b7f5.vsidx
+#	deleted:    .vs/WebAPIDemo/FileContentIndex/f8a7826e-0651-4cbe-877e-a1f4bea26bad.vsidx
+#	deleted:    .vs/WebAPIDemo/copilot-chat/ed975ba4/sessions/97b716c9-fed4-4e0e-b405-ef23106a7b13
+#	deleted:    .vs/WebAPIDemo/v17/.futdcache.v2
+#	deleted:    .vs/WebAPIDemo/v17/.suo
+#	deleted:    .vs/WebAPIDemo/v17/DocumentLayout.backup.json
+#	deleted:    .vs/WebAPIDemo/v17/DocumentLayout.json
+#	deleted:    WebAPIDemo.sln
+#	deleted:    WebAPIDemo/Controllers/ProductController.cs
+#	deleted:    WebAPIDemo/Controllers/WeatherForecastController.cs
+#	deleted:    WebAPIDemo/Product.cs
+#	deleted:    WebAPIDemo/ProductList.cs
+#	deleted:    WebAPIDemo/ProductService.cs
+#	deleted:    WebAPIDemo/Program.cs
+#	deleted:    WebAPIDemo/Properties/launchSettings.json
+#	deleted:    WebAPIDemo/WeatherForecast.cs
+#	deleted:    WebAPIDemo/WebAPIDemo.csproj
+#	deleted:    WebAPIDemo/WebAPIDemo.csproj.user
+#	deleted:    WebAPIDemo/WebAPIDemo.http
+#	deleted:    WebAPIDemo/appsettings.Development.json
+#	deleted:    WebAPIDemo/appsettings.json
+#	modified:   WebAPIDemo/obj/Debug/net8.0/WebAPIDemo.AssemblyInfo.cs
+#	modified:   WebAPIDemo/obj/Debug/net8.0/WebAPIDemo.AssemblyInfoInputs.cache
+#	modified:   WebAPIDemo/obj/Debug/net8.0/WebAPIDemo.GeneratedMSBuildEditorConfig.editorconfig
+#	deleted:    WebAPIDemo/obj/Debug/net8.0/WebAPIDemo.assets.cache
+#	deleted:    WebAPIDemo/obj/Debug/net8.0/WebAPIDemo.csproj.AssemblyReference.cache
+#	deleted:    WebAPIDemo/obj/Debug/net8.0/rpswa.dswa.cache.json
+#	deleted:    WebAPIDemo/obj/WebAPIDemo.csproj.nuget.dgspec.json
+#	deleted:    WebAPIDemo/obj/WebAPIDemo.csproj.nuget.g.props
+#	deleted:    WebAPIDemo/obj/WebAPIDemo.csproj.nuget.g.targets
+#	deleted:    WebAPIDemo/obj/project.assets.json
+#	deleted:    WebAPIDemo/obj/project.nuget.cache
+#
